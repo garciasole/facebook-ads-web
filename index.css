@@ -1,0 +1,25 @@
+html,body{
+    font-family: 'Darker Grotesque', sans-serif;
+    background-color:#d1ccff;
+    color:#06003b;
+    min-width: 290px;
+    display:flex;
+  }
+  
+  #navbar {
+    min-width: 30%;
+    margin:5%;
+    border-right: solid;
+    border-color: #06003b;
+    }
+  header{
+    font-family:syne;
+    font-size:25px;
+  }
+  
+  
+  #main-doc{
+    min-width:70%;
+    margin:5% 5% 5% 40%;
+  }
+  
