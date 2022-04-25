@@ -2,12 +2,12 @@ html,body{
     font-family: 'Darker Grotesque', sans-serif;
     background-color:#d1ccff;
     color:#06003b;
-    min-width: 290px;
+    max-width:max-content;
     display:flex;
   }
   
   #navbar {
-    min-width: 30%;
+    width:30%;
     margin:5%;
     border-right: solid;
     border-color: #06003b;
@@ -19,7 +19,7 @@ html,body{
   
   
   #main-doc{
-    min-width:70%;
-    margin:5% 5% 5% 40%;
+    width:70%;
+    margin:1% 1% 1% 1%;
   }
   
